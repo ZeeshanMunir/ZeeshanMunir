@@ -33,6 +33,16 @@ I am passionate about **clean code, scalable architectures, and continuous impro
 
 ---
 
+## 🤝 Collaboration & Workflow
+
+- Git & Version Control  
+- Agile / Scrum Methodologies  
+- Working with Designers & Backend Teams  
+- Code Reviews & Best Practices  
+- Continuous Learning & Improvement  
+
+---
+
 ## 📂 Projects
 
 ### [GoBack](https://github.com/ZeeshanMunir/GoBack)
