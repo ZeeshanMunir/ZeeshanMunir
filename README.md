@@ -1,14 +1,19 @@
 # Hi, I'm Zeeshan Munir 👋
 
-I am a **Mobile App Developer** specializing in **iOS application development** and **cross-platform mobile development using React Native**. I focus on building **scalable, high-performance mobile applications** with strong attention to **code quality, performance, and user experience**.
+I am a **Mobile App Developer** specializing in **iOS development** and **cross-platform mobile applications using React Native**. I build **scalable, high-performance apps** with a strong focus on **code quality, maintainability, and user experience**.
+
+My technical expertise includes **Swift, SwiftUI, UIKit, Objective-C, Xcode**, and modern iOS frameworks, along with **React Native** for cross-platform solutions. I work with **REST & GraphQL APIs**, follow **MVVM & Clean Architecture**, and implement **CI/CD workflows** to deliver **production-ready mobile systems**.
+
+I have hands-on experience across the **full mobile app development lifecycle**, from architecture design to implementation, optimization, testing, and deployment. I collaborate closely with **designers, product managers, and backend teams** to deliver reliable, user-centric applications.  
+
+I am passionate about **clean code, scalable architectures, and continuous improvement**, and I actively stay updated with the latest advancements in **iOS development, React Native, and mobile engineering best practices**.
 
 ---
 
-## 🛠 Top Professional Skills
+## 🛠 Top Skills
 
 **iOS Development:**
 - Swift, SwiftUI, UIKit, Objective-C
-- Xcode & Modern iOS Frameworks
 - MVVM, Clean Architecture, Coordinator Pattern
 - REST & GraphQL APIs, URLSession, Combine
 - Dependency Injection (Swinject)
@@ -16,49 +21,28 @@ I am a **Mobile App Developer** specializing in **iOS application development** 
 - Core Data & Realm
 - Push Notifications (APNS)
 - In-App Purchases
-- Performance Optimization & Memory Management
-- CI/CD Workflows & App Store Deployment
+- Performance Optimization
+- CI/CD & App Store Deployment
 
 **React Native & Cross-Platform:**
 - React Native (iOS & Android)
 - Expo & Bare Workflow
-- Redux / Context API for State Management
-- Integration with REST & GraphQL APIs
+- Redux / Context API
 - Native Modules & Bridging
-- App Performance Optimization
 - Cross-Platform UI Design & Animations
-
-**Collaboration & Workflow:**
-- Git & Version Control
-- Agile/Scrum Methodologies
-- Working with Designers & Backend Teams
-- Code Reviews & Best Practices
-- Continuous Learning & Improvement
 
 ---
 
 ## 📂 Projects
 
 ### [GoBack](https://github.com/ZeeshanMunir/GoBack)
-A delivery-style mobile app focused on e-commerce returns and parcel delivery, providing a seamless experience from pickup to delivery.
+Delivery-style app focused on e-commerce returns and parcel delivery.
 
 ### [Directooo](https://github.com/ZeeshanMunir/Directooo)
-A next-gen social platform connecting influencers and celebrities with fans through personalized interactions.
+Next-gen social platform connecting influencers and celebrities with fans through personalized interactions.
 
 ### [Gears Unlimited](https://github.com/ZeeshanMunir/GearsUnlimited)
-A modern digital marketplace for buying and selling vehicle spare parts, offering a streamlined and reliable shopping experience.
-
----
-
-## 🤝 Collaboration
-
-I work closely with **designers, product managers, and backend teams** to deliver reliable and user-centric mobile applications. I value **clean, maintainable code**, scalable architectures, and continuous improvement.
-
----
-
-## 🌱 Learning & Growth
-
-I actively stay updated with the **latest advancements in iOS development, React Native, and mobile engineering best practices**, and I enjoy taking on challenges that drive **technical and product excellence**.
+Digital marketplace for buying and selling vehicle spare parts with a streamlined shopping experience.
 
 ---
 
