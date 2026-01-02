@@ -45,15 +45,30 @@ I am passionate about **clean code, scalable architectures, and continuous impro
 
 ## 📂 Projects
 
-### [GoBack](https://github.com/ZeeshanMunir/GoBack)
-Delivery-style app focused on e-commerce returns and parcel delivery.
+### [SPSG - Sports Production Safety Group](https://apps.apple.com/tr/app/spsg-mobile/id1421412616)  
+SPSG is a sports production safety platform that uses **AI-driven insights** to manage operations, predict risks, optimize schedules, and ensure real-time safety compliance.
 
-### [Directooo](https://github.com/ZeeshanMunir/Directooo)
-Next-gen social platform connecting influencers and celebrities with fans through personalized interactions.
+### [RaceToFreedom](https://apps.apple.com/gb/app/racetofreedom/id6473527134)  
+RaceToFreedom is a **learning platform** delivering AI-powered, personalized video courses for professionals and entrepreneurs, featuring expert-led content and interactive modules.
 
-### [Gears Unlimited](https://github.com/ZeeshanMunir/GearsUnlimited)
-Digital marketplace for buying and selling vehicle spare parts with a streamlined shopping experience.
+### [RUMOR: Invites That Matter](https://apps.apple.com/ke/app/rumor-connecting-culture/id6503365397)  
+Rumor is an **exclusive event platform** connecting hosts with a curated audience, enabling seamless RSVPs, guest list management, QR-based access, and host–guest interaction.
 
+### [Circl](https://apps.apple.com/us/app/circl-%D8%B3%D9%8A%D8%B1%D9%83%D9%84/id1526462647)  
+Circl is a **wellness marketplace** connecting providers and customers through AI-powered discovery, booking, payments, and session management—all in one platform.
+
+### [Boatek](https://apps.apple.com/us/app/boatek-%D8%A8%D9%88%D8%AA%D9%83/id1601366440)  
+Boatek is a **boat booking platform** allowing owners to manage multiple vessels and reservations, with secure payments, multilingual support, and real-time owner–customer chat.
+
+### [Reserval: Cruise, Hotel & More](https://apps.apple.com/us/app/reserval-cruise-hotel-more/id1544042953)  
+Reserval is a **smart all-in-one travel platform** that simplifies planning, booking, and managing global trips with intelligent automation and real-time assistance.
+
+### [Menuons](https://apps.apple.com/us/app/menuons/id1344697421)  
+Menuons is an **online food ordering and restaurant management app** that lets users browse menus, customize orders, and place instant food requests.
+
+### [Rehabilitendon App](https://apps.apple.com/us/app/rehabilitendon-app/id1582953722)  
+Rehabilitendon is a **specialized rehabilitation platform** focused on neuro-muscular activation, helping users recover faster, reduce pain, and improve muscle control beyond traditional strength training.
+  
 ---
 
 ## 📫 Contact Me
