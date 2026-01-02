@@ -58,5 +58,7 @@ Digital marketplace for buying and selling vehicle spare parts with a streamline
 
 ## 📫 Contact Me
 
-- Email: **zeeshanmunir@example.com**  
-- LinkedIn: [linkedin.com/in/zeeshanmunir](https://linkedin.com/in/zeeshanmunir)
+- Portfolio: [zeeshan-munir-3ai8yly.gamma.site](https://zeeshan-munir-3ai8yly.gamma.site)  
+- Phone: +92 307 4047035  
+- Email: [zeeshan.munir307@gmail.com](mailto:zeeshan.munir307@gmail.com)  
+- LinkedIn: [linkedin.com/in/zeeshan-munir-24ba08137](https://www.linkedin.com/in/zeeshan-munir-24ba08137/)
