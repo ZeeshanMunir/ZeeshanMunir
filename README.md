@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Zeeshan 👋
 
-<!--
-**ZeeshanMunir/ZeeshanMunir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an iOS Developer with 6+ years of experience building high-performance apps with Swift, UIKit, and SwiftUI.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- Swift, SwiftUI, UIKit
+- React Native
+- MVVM & Clean Architecture
+- API Integration, Push Notifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- [GoBack](https://github.com/ZeeshanMunir/GoBack) – Delivery app for e-commerce returns
+- [Directooo](https://github.com/ZeeshanMunir/Directooo) – Social platform connecting fans & influencers
+- [Gears Unlimited](https://github.com/ZeeshanMunir/GearsUnlimited) – Digital marketplace for vehicle parts
+
+## 📫 Contact Me
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
