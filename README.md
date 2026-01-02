@@ -55,7 +55,7 @@ RaceToFreedom is a **learning platform** delivering AI-powered, personalized vid
 Rumor is an **exclusive event platform** connecting hosts with a curated audience, enabling seamless RSVPs, guest list management, QR-based access, and host–guest interaction.
 
 ### [Circl](https://apps.apple.com/us/app/circl-%D8%B3%D9%8A%D8%B1%D9%83%D9%84/id1526462647)  
-Circl is a **wellness marketplace** connecting providers and customers through AI-powered discovery, booking, payments, and session management—all in one platform.
+Circl is a **wellness marketplace** connecting providers and customers through AI-powered discovery, booking, payments, and session management all in one platform.
 
 ### [Boatek](https://apps.apple.com/us/app/boatek-%D8%A8%D9%88%D8%AA%D9%83/id1601366440)  
 Boatek is a **boat booking platform** allowing owners to manage multiple vessels and reservations, with secure payments, multilingual support, and real-time owner–customer chat.
