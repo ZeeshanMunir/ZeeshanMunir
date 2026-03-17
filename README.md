@@ -1,12 +1,12 @@
 # Hi, I'm Zeeshan Munir 👋
 
-I am a **Mobile App Developer** specializing in **iOS development** and **cross-platform mobile applications using React Native**. I build **scalable, high-performance apps** with a strong focus on **code quality, maintainability, and user experience**.
+I am a **Mobile App Developer** specializing in **native iOS development** and **cross-platform mobile applications using Flutter and React Native**. I build s**calable, high-performance apps** with a strong focus on **code quality, maintainability, and user experience**.
 
-My technical expertise includes **Swift, SwiftUI, UIKit, Objective-C, Xcode**, and modern iOS frameworks, along with **React Native** for cross-platform solutions. I work with **REST & GraphQL APIs**, follow **MVVM & Clean Architecture**, and implement **CI/CD workflows** to deliver **production-ready mobile systems**.
+My technical expertise includes **Swift, SwiftUI, UIKit, Objective-C, and Xcode**, along with **Flutter (Dart) and React Native (JavaScript/TypeScript) for cross-platform solutions**. I work with **REST & GraphQL APIs**, follow **MVVM & Clean Architecture**, and implement **CI/CD workflows** to deliver **production-ready mobile systems**.
 
-I have hands-on experience across the **full mobile app development lifecycle**, from architecture design to implementation, optimization, testing, and deployment. I collaborate closely with **designers, product managers, and backend teams** to deliver reliable, user-centric applications.  
+I have hands-on experience across the **full mobile app development lifecycle**, from architecture design to implementation, optimization, testing, and deployment. I collaborate closely with **designers, product managers, and backend teams** to deliver reliable, user-centric applications.
 
-I am passionate about **clean code, scalable architectures, and continuous improvement**, and I actively stay updated with the latest advancements in **iOS development, React Native, and mobile engineering best practices**.
+I am passionate about **clean code, scalable architectures, and continuous improvement**, and I actively stay updated with the latest advancements in **iOS development, Flutter, React Native, and mobile engineering best practices**.
 
 ---
 
@@ -23,6 +23,15 @@ I am passionate about **clean code, scalable architectures, and continuous impro
 - In-App Purchases
 - Performance Optimization
 - CI/CD & App Store Deployment
+
+**Flutter Development**
+- Flutter & Dart (iOS & Android)
+- BLoC / Provider / Riverpod State Management
+- REST API Integration
+- Custom UI & Responsive Design
+- Platform Channels (Native Integrations)
+- Firebase Integration (Auth, Firestore, FCM)
+- Performance Optimization & App Deployment
 
 **React Native & Cross-Platform:**
 - React Native (iOS & Android)
