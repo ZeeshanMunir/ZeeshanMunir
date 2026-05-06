@@ -54,7 +54,7 @@ I am passionate about **clean code, scalable architectures, and continuous impro
 
 ## 📂 Projects
 
-### [SPSG - Sports Production Safety Group](https://apps.apple.com/tr/app/spsg-mobile/id1421412616)  
+### [SPSG - Sports Production Safety Group](https://apps.apple.com/us/app/spsg-mobile/id6756684743)  
 SPSG is a sports production safety platform that uses **AI-driven insights** to manage operations, predict risks, optimize schedules, and ensure real-time safety compliance.
 
 ### [RaceToFreedom](https://apps.apple.com/gb/app/racetofreedom/id6473527134)  
